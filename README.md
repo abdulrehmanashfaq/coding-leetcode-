@@ -14,6 +14,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0002-add-two-numbers) |
 | [0817-design-hashmap](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0817-design-hashmap) |
 ## Design
 |  |
@@ -23,4 +24,12 @@
 |  |
 | ------- |
 | [0817-design-hashmap](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0817-design-hashmap) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
