@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0817-design-hashmap](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0817-design-hashmap) |
 ## Hash Table
 |  |
@@ -68,4 +69,8 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0543-diameter-of-binary-tree) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
