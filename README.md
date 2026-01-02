@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0027-remove-element) |
 | [0817-design-hashmap](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0817-design-hashmap) |
 ## Hash Table
 |  |
@@ -73,4 +74,5 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
