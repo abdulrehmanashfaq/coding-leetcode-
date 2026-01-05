@@ -51,6 +51,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0543-diameter-of-binary-tree) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -58,6 +59,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0199-binary-tree-right-side-view) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -66,6 +68,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0543-diameter-of-binary-tree) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 ## Depth-First Search
 |  |
@@ -73,10 +76,15 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0543-diameter-of-binary-tree) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0027-remove-element) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0799-minimum-distance-between-bst-nodes) |
 <!---LeetCode Topics End-->
