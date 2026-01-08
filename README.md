@@ -53,6 +53,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0538-convert-bst-to-greater-tree](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0543-diameter-of-binary-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
@@ -75,6 +76,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0538-convert-bst-to-greater-tree](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0543-diameter-of-binary-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
@@ -87,6 +89,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0538-convert-bst-to-greater-tree](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0543-diameter-of-binary-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
@@ -100,6 +103,7 @@
 |  |
 | ------- |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0538-convert-bst-to-greater-tree](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0538-convert-bst-to-greater-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 <!---LeetCode Topics End-->
