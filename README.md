@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0035-search-insert-position) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0817-design-hashmap](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0817-design-hashmap) |
 ## Hash Table
@@ -106,6 +107,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0035-search-insert-position) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0538-convert-bst-to-greater-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0799-minimum-distance-between-bst-nodes) |
