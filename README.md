@@ -8,6 +8,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0066-plus-one) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0817-design-hashmap](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0817-design-hashmap) |
 ## Hash Table
@@ -36,6 +37,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0066-plus-one) |
 ## Recursion
 |  |
 | ------- |
