@@ -10,6 +10,7 @@
 | [0035-search-insert-position](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0066-plus-one) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0118-pascals-triangle](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0118-pascals-triangle) |
 | [0817-design-hashmap](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0817-design-hashmap) |
 ## Hash Table
 |  |
@@ -139,5 +140,6 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0118-pascals-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0124-binary-tree-maximum-path-sum) |
 <!---LeetCode Topics End-->
