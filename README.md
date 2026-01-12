@@ -17,6 +17,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0013-roman-to-integer) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0817-design-hashmap](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0817-design-hashmap) |
 ## Linked List
@@ -38,6 +39,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0066-plus-one) |
 ## Recursion
 |  |
@@ -47,6 +49,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0013-roman-to-integer) |
 ## Sliding Window
 |  |
 | ------- |
