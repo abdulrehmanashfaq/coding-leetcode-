@@ -31,6 +31,7 @@
 |  |
 | ------- |
 | [0817-design-hashmap](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0817-design-hashmap) |
+| [1296-kth-ancestor-of-a-tree-node](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/1296-kth-ancestor-of-a-tree-node) |
 ## Hash Function
 |  |
 | ------- |
@@ -75,6 +76,7 @@
 | [0799-minimum-distance-between-bst-nodes](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1296-kth-ancestor-of-a-tree-node](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/1296-kth-ancestor-of-a-tree-node) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -86,6 +88,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0662-maximum-width-of-binary-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1296-kth-ancestor-of-a-tree-node](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/1296-kth-ancestor-of-a-tree-node) |
 ## Binary Tree
 |  |
 | ------- |
@@ -121,6 +124,7 @@
 | [0799-minimum-distance-between-bst-nodes](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1296-kth-ancestor-of-a-tree-node](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/1296-kth-ancestor-of-a-tree-node) |
 ## Two Pointers
 |  |
 | ------- |
@@ -136,6 +140,7 @@
 | [0538-convert-bst-to-greater-tree](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0538-convert-bst-to-greater-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1296-kth-ancestor-of-a-tree-node](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/1296-kth-ancestor-of-a-tree-node) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -149,8 +154,13 @@
 | ------- |
 | [0118-pascals-triangle](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0118-pascals-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0124-binary-tree-maximum-path-sum) |
+| [1296-kth-ancestor-of-a-tree-node](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/1296-kth-ancestor-of-a-tree-node) |
 ## String Matching
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1296-kth-ancestor-of-a-tree-node](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/1296-kth-ancestor-of-a-tree-node) |
 <!---LeetCode Topics End-->
