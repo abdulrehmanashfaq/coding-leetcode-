@@ -11,6 +11,7 @@
 | [0066-plus-one](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0066-plus-one) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0118-pascals-triangle](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0119-pascals-triangle-ii) |
 | [0283-move-zeroes](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0283-move-zeroes) |
 | [0817-design-hashmap](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0817-design-hashmap) |
 ## Hash Table
@@ -155,6 +156,7 @@
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0119-pascals-triangle-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0124-binary-tree-maximum-path-sum) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/1296-kth-ancestor-of-a-tree-node) |
 ## String Matching
