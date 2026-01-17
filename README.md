@@ -12,6 +12,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0118-pascals-triangle](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0119-pascals-triangle-ii) |
+| [0217-contains-duplicate](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0283-move-zeroes) |
 | [0817-design-hashmap](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0817-design-hashmap) |
 ## Hash Table
@@ -21,6 +22,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0013-roman-to-integer) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0217-contains-duplicate](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0217-contains-duplicate) |
 | [0817-design-hashmap](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0817-design-hashmap) |
 ## Linked List
 |  |
@@ -167,4 +169,8 @@
 |  |
 | ------- |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/1296-kth-ancestor-of-a-tree-node) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
