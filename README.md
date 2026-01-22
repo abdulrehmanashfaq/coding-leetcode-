@@ -16,6 +16,7 @@
 | [0219-contains-duplicate-ii](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0228-summary-ranges) |
 | [0283-move-zeroes](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0349-intersection-of-two-arrays) |
 | [0817-design-hashmap](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0817-design-hashmap) |
 ## Hash Table
 |  |
@@ -27,6 +28,7 @@
 | [0133-clone-graph](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0133-clone-graph) |
 | [0217-contains-duplicate](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0219-contains-duplicate-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0349-intersection-of-two-arrays) |
 | [0817-design-hashmap](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0817-design-hashmap) |
 ## Linked List
 |  |
@@ -144,10 +146,12 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0283-move-zeroes](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0349-intersection-of-two-arrays) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0035-search-insert-position) |
+| [0349-intersection-of-two-arrays](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0349-intersection-of-two-arrays) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0538-convert-bst-to-greater-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0799-minimum-distance-between-bst-nodes) |
@@ -180,6 +184,7 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0349-intersection-of-two-arrays) |
 ## Graph Theory
 |  |
 | ------- |
