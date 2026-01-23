@@ -17,6 +17,7 @@
 | [0228-summary-ranges](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0228-summary-ranges) |
 | [0283-move-zeroes](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0349-intersection-of-two-arrays) |
+| [0414-third-maximum-number](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0414-third-maximum-number) |
 | [0817-design-hashmap](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0817-design-hashmap) |
 ## Hash Table
 |  |
@@ -185,6 +186,7 @@
 | ------- |
 | [0217-contains-duplicate](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0349-intersection-of-two-arrays) |
+| [0414-third-maximum-number](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0414-third-maximum-number) |
 ## Graph Theory
 |  |
 | ------- |
