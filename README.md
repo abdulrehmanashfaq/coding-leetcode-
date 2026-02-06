@@ -102,6 +102,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0199-binary-tree-right-side-view) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0662-maximum-width-of-binary-tree) |
+| [0684-redundant-connection](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0684-redundant-connection) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/1296-kth-ancestor-of-a-tree-node) |
@@ -138,6 +139,7 @@
 | [0538-convert-bst-to-greater-tree](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0662-maximum-width-of-binary-tree) |
+| [0684-redundant-connection](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0684-redundant-connection) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -195,6 +197,7 @@
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0133-clone-graph) |
+| [0684-redundant-connection](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0684-redundant-connection) |
 ## Greedy
 |  |
 | ------- |
@@ -203,4 +206,8 @@
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0561-array-partition) |
+## Union-Find
+|  |
+| ------- |
+| [0684-redundant-connection](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0684-redundant-connection) |
 <!---LeetCode Topics End-->
