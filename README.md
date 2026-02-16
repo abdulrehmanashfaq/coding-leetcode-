@@ -9,6 +9,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0035-search-insert-position) |
+| [0049-group-anagrams](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0066-plus-one) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0118-pascals-triangle](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0118-pascals-triangle) |
@@ -29,6 +30,7 @@
 | [0001-two-sum](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0133-clone-graph](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0133-clone-graph) |
 | [0217-contains-duplicate](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0217-contains-duplicate) |
@@ -69,6 +71,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0049-group-anagrams) |
 | [0344-reverse-string](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0383-ransom-note) |
 ## Sliding Window
@@ -197,6 +200,7 @@
 |  |
 | ------- |
 | [0018-4sum](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/abdulrehmanashfaq/coding-leetcode-/tree/master/0414-third-maximum-number) |
