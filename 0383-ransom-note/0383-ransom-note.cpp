@@ -6,14 +6,19 @@ public:
                 m[it]++;
         }
         for(auto it : magazine){
+            if(m.find(it)!=m.end()){
+                m[it]--;
 
-            m[it]--;
-        }
-        for(auto it : m){
-            if(it.second>0){
-                return false ;
             }
+            if(m[it]==0){
+                m.erase(it);
+            }
+           if(m.empty()){
+            return true;
+           }
         }
-        return true ;
+        return m.empty();
+       
+        
     }
 };
